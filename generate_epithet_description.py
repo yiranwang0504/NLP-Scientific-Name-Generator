@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 
 # ============================= 基础配置 =============================
-API_KEY = "sk-16400cc458574e788397680e05f4b823"  
+API_KEY = "An API key should be placed here"  
 BASE_URL = "https://api.deepseek.com/v1"
 MODEL_NAME = "deepseek-chat"
 
